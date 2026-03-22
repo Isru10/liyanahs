@@ -65,7 +65,7 @@ export default function LandingPage() {
                 <Link href="/book">Book an Appointment</Link>
               </Button>
               <Button size="lg" variant="outline" className="h-14 px-8 text-lg font-bold" asChild>
-                <a href="#services">Explore Services</a>
+            <Link href="/login">Doctor Login</Link>
               </Button>
             </div>
           </motion.div>
